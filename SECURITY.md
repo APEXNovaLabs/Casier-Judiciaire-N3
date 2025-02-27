@@ -10,3 +10,7 @@ Versions with an active security update:
 ## Reporting a Vulnerability
 This software may have a certain flaw. Please report them by sending us messages or emails.
 All information recorded in our database may include personal information about individuals. We take full responsibility in the event of a leak of information. It is necessary to report abuse or even a bug.
+
+If you find a vulnerability on this program, please contact us:
+ - **Mail:** josoavonjiniaina13@gmail.com
+ - [APEXNova Labs](https://github.com/APEXNovaLabs)
